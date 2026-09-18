@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "title": "剑雅16 Test2 听力早读",
+  "source_label": "剑雅16 Test2",
+  "intro": "先读英文例句，再用中文提示复述；例句和完整段落为原文表达的迁移练习。",
+  "oral": [
+    {
+      "phrase": "tend to do sth",
+      "meaning": "往往会……",
+      "source": {
+        "part": "Part 3",
+        "anchor": "we tend to forget",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "I **tend to stay up late** when I’m under pressure.",
+          "zh": "我压力大时往往会熬夜。"
+        }
+      ]
+    },
+    {
+      "phrase": "fit in with my lifestyle",
+      "meaning": "适合我的生活方式",
+      "source": {
+        "part": "Part 3",
+        "anchor": "fit in with my lifestyle",
+        "relation": "exact"
+      },
+      "examples": [
+        {
+          "en": "Working from home **fits in with my lifestyle** because I prefer a flexible schedule.",
+          "zh": "在家办公适合我的生活方式，因为我喜欢灵活的时间安排。"
+        }
+      ]
+    },
+    {
+      "phrase": "struggle with sth",
+      "meaning": "在某方面感到吃力",
+      "source": {
+        "part": "Part 3",
+        "anchor": "I struggled a bit with the action plan",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "I used to **struggle with public speaking**, but I’m getting better at it.",
+          "zh": "我以前觉得当众讲话很困难，但现在逐渐进步了。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a big difference to …",
+      "meaning": "对……产生明显影响",
+      "source": {
+        "part": "Part 1",
+        "anchor": "make a big difference",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Having a quiet place to study **makes a big difference to my concentration**.",
+          "zh": "有一个安静的学习环境，对我的专注力有很大帮助。"
+        }
+      ]
+    },
+    {
+      "phrase": "just for fun",
+      "meaning": "纯粹为了好玩",
+      "source": {
+        "part": "Part 2",
+        "anchor": "just for fun",
+        "relation": "exact"
+      },
+      "examples": [
+        {
+          "en": "I started learning the guitar **just for fun**.",
+          "zh": "我最初学吉他纯粹是为了好玩。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a go at sth / doing sth",
+      "meaning": "尝试一下",
+      "source": {
+        "part": "Part 4",
+        "anchor": "Anyone can have a go",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "I’d like to **have a go at painting**, even though I’m not particularly artistic.",
+          "zh": "虽然我不太有艺术天赋，但我想尝试一下绘画。"
+        }
+      ]
+    },
+    {
+      "phrase": "get bored with sth / doing sth",
+      "meaning": "对……感到厌倦",
+      "source": {
+        "part": "Part 2",
+        "anchor": "get bored with the food",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "I **get bored with doing the same workout** every day.",
+          "zh": "每天做同样的锻炼，我会感到厌倦。"
+        }
+      ]
+    },
+    {
+      "phrase": "when it comes to …",
+      "meaning": "谈到……；在……方面",
+      "source": {
+        "part": "Part 4",
+        "anchor": "when it comes to physical fitness gains",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "**When it comes to choosing a holiday destination**, I usually prefer somewhere quiet.",
+          "zh": "选择度假目的地时，我通常更喜欢安静的地方。"
+        }
+      ]
+    },
+    {
+      "phrase": "talking of …",
+      "meaning": "说到……",
+      "source": {
+        "part": "Part 1",
+        "anchor": "talking of fixing photos",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "**Talking of exercise**, I’ve recently started swimming again.",
+          "zh": "说到运动，我最近又开始游泳了。"
+        }
+      ]
+    },
+    {
+      "phrase": "I’d always assumed that …",
+      "meaning": "我之前一直以为……",
+      "source": {
+        "part": "Part 3",
+        "anchor": "I’d always assumed that",
+        "relation": "exact"
+      },
+      "examples": [
+        {
+          "en": "**I’d always assumed that cooking was difficult** until I started making meals myself.",
+          "zh": "在开始自己做饭之前，我一直以为做饭很难。"
+        }
+      ]
+    },
+    {
+      "phrase": "be meant to do sth",
+      "meaning": "旨在……；按理应该……",
+      "source": {
+        "part": "Part 3",
+        "anchor": "it’s meant to make you more creative",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "This app **is meant to help me manage my time**, but I rarely use it.",
+          "zh": "这个应用本来是用来帮我管理时间的，但我很少使用它。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a look through …",
+      "meaning": "翻看、浏览一遍",
+      "source": {
+        "part": "Part 1",
+        "anchor": "have a look through the photos",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "I usually **have a look through my notes** before class.",
+          "zh": "我通常会在上课前翻看一下笔记。"
+        }
+      ]
+    },
+    {
+      "phrase": "Can you give me an idea of …?",
+      "meaning": "能大致告诉我……吗？",
+      "source": {
+        "part": "Part 1",
+        "anchor": "give me an idea of how much this will cost",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "**Can you give me an idea of how much the course costs?**",
+          "zh": "你能大致告诉我这门课需要多少钱吗？"
+        }
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "convert A into B",
+      "meaning": "把A改造成B",
+      "source": {
+        "part": "Part 2",
+        "anchor": "convert it into a tourist information centre",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Unused offices could be **converted into affordable housing**.",
+          "zh": "闲置的办公楼可以改造成价格可负担的住房。"
+        }
+      ]
+    },
+    {
+      "phrase": "due to a lack of funding",
+      "meaning": "由于缺乏资金",
+      "source": {
+        "part": "Part 2",
+        "anchor": "through lack of money",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "The project was delayed **due to a lack of funding**.",
+          "zh": "该项目由于缺乏资金而延期了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be full to capacity",
+      "meaning": "满员；达到最大容纳量",
+      "source": {
+        "part": "Part 2",
+        "anchor": "full to capacity",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Trains are often **full to capacity** during rush hour.",
+          "zh": "高峰时段，列车经常满员。"
+        }
+      ]
+    },
+    {
+      "phrase": "cater for …",
+      "meaning": "满足……的需要",
+      "source": {
+        "part": "Part 2",
+        "anchor": "cater particularly for the many pupils",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Public libraries should **cater for people of different ages**.",
+          "zh": "公共图书馆应满足不同年龄人群的需要。"
+        }
+      ]
+    },
+    {
+      "phrase": "the smooth running of …",
+      "meaning": "……的顺利运作",
+      "source": {
+        "part": "Part 2",
+        "anchor": "the smooth running of the Food Hall",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Clear rules help ensure **the smooth running of a school**.",
+          "zh": "清晰的规章制度有助于确保学校顺利运作。"
+        }
+      ]
+    },
+    {
+      "phrase": "the most appropriate methodology",
+      "meaning": "最合适的研究方法",
+      "source": {
+        "part": "Part 3",
+        "anchor": "the most appropriate methodology",
+        "relation": "exact"
+      },
+      "examples": [
+        {
+          "en": "Researchers need to select **the most appropriate methodology** for their study.",
+          "zh": "研究人员需要为研究选择最合适的方法。"
+        }
+      ]
+    },
+    {
+      "phrase": "show obvious patterns",
+      "meaning": "呈现明显规律",
+      "source": {
+        "part": "Part 3",
+        "anchor": "show any obvious patterns",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "The results did not **show any obvious patterns**.",
+          "zh": "研究结果没有呈现出明显的规律。"
+        }
+      ]
+    },
+    {
+      "phrase": "the correlation between A and B",
+      "meaning": "A与B之间的相关性",
+      "source": {
+        "part": "Part 3",
+        "anchor": "the correlation between our two variables",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "The study examined **the correlation between screen time and sleep duration**.",
+          "zh": "这项研究考察了屏幕使用时间与睡眠时长之间的相关性。"
+        }
+      ]
+    },
+    {
+      "phrase": "put sb under unnecessary stress",
+      "meaning": "给某人施加不必要的压力",
+      "source": {
+        "part": "Part 3",
+        "anchor": "put under any unnecessary stress",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Excessive testing may **put students under unnecessary stress**.",
+          "zh": "过于频繁的测试可能会给学生施加不必要的压力。"
+        }
+      ]
+    },
+    {
+      "phrase": "be especially beneficial for …",
+      "meaning": "对……尤其有益",
+      "source": {
+        "part": "Part 4",
+        "anchor": "especially beneficial for older adults",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Community activities can **be especially beneficial for older adults**.",
+          "zh": "社区活动对老年人尤其有益。"
+        }
+      ]
+    },
+    {
+      "phrase": "lower the risk of …",
+      "meaning": "降低……的风险",
+      "source": {
+        "part": "Part 4",
+        "anchor": "lowers the risk of falls",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Better street lighting may **lower the risk of accidents**.",
+          "zh": "改善街道照明可能降低事故风险。"
+        }
+      ]
+    },
+    {
+      "phrase": "barriers to participation",
+      "meaning": "参与的障碍",
+      "source": {
+        "part": "Part 4",
+        "anchor": "barriers to participation",
+        "relation": "exact"
+      },
+      "examples": [
+        {
+          "en": "High fees can create **barriers to participation** in sports.",
+          "zh": "高昂的费用可能成为参与体育活动的障碍。"
+        }
+      ]
+    },
+    {
+      "phrase": "retain information",
+      "meaning": "记住信息",
+      "source": {
+        "part": "Part 4",
+        "anchor": "retain more information",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Regular revision helps students **retain information**.",
+          "zh": "定期复习有助于学生记住信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "a sense of well-being",
+      "meaning": "幸福感；身心良好的感受",
+      "source": {
+        "part": "Part 4",
+        "anchor": "a general sense of well-being",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "A supportive environment can improve students’ **sense of well-being**.",
+          "zh": "一个能够提供支持的环境可以提升学生的幸福感。"
+        }
+      ]
+    },
+    {
+      "phrase": "reduce a sense of isolation",
+      "meaning": "减轻孤独感",
+      "source": {
+        "part": "Part 4",
+        "anchor": "reduce older people’s sense of isolation",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Local clubs may help **reduce older people’s sense of isolation**.",
+          "zh": "当地的俱乐部可能有助于减轻老年人的孤独感。"
+        }
+      ]
+    },
+    {
+      "phrase": "encourage interaction",
+      "meaning": "促进交流互动",
+      "source": {
+        "part": "Part 4",
+        "anchor": "encourages interaction",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Shared spaces can **encourage interaction among residents**.",
+          "zh": "共享空间可以促进居民之间的交流。"
+        }
+      ]
+    },
+    {
+      "phrase": "have greater motivation to do sth",
+      "meaning": "更有动力做某事",
+      "source": {
+        "part": "Part 4",
+        "anchor": "having greater motivation to be more active",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Students may **have greater motivation to learn** when they can choose topics they enjoy.",
+          "zh": "当学生可以选择自己喜欢的话题时，他们可能更有学习动力。"
+        }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "phrase": "One thing I hadn’t realised … was that …",
+      "meaning": "在……之前，我没有意识到的一点是……",
+      "source": {
+        "part": "Part 4",
+        "anchor": "One thing I hadn’t realised before researching this topic was that",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "**One thing I hadn’t realised before living alone was that** managing a household takes a lot of time.",
+          "zh": "独自生活之前，我没有意识到打理一个家需要花很多时间。"
+        }
+      ]
+    },
+    {
+      "phrase": "have / get + 宾语 + 过去分词",
+      "meaning": "安排某事被处理；使某事完成。",
+      "source": {
+        "part": "Part 1",
+        "anchor": "get them converted to digital format",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "I need to **get my laptop repaired** before the new term starts.",
+          "zh": "我需要在新学期开始前把笔记本电脑修好。"
+        },
+        {
+          "en": "The school **had its library renovated** last year.",
+          "zh": "学校去年安排翻新了图书馆。"
+        }
+      ]
+    },
+    {
+      "phrase": "What I find particularly … about … is that …",
+      "meaning": "我觉得……尤其……的一点是……",
+      "source": {
+        "part": "Part 4",
+        "anchor": "what’s only been discovered recently is that",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "**What I find particularly useful about online courses is that** I can learn at my own pace.",
+          "zh": "我觉得在线课程特别实用的一点是，我可以按照自己的节奏学习。"
+        }
+      ]
+    },
+    {
+      "phrase": "For every … that …, there are / may be … that …",
+      "meaning": "每有一个……，就有／可能还有……",
+      "source": {
+        "part": "Part 3",
+        "anchor": "for each dream that comes true, we have thousands that don’t",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "**For every successful project that receives public attention, there may be** many unsuccessful ones that go unnoticed.",
+          "zh": "每有一个受到公众关注的成功项目，就可能还有许多失败的项目无人注意。"
+        }
+      ]
+    },
+    {
+      "phrase": "There is evidence to suggest that …",
+      "meaning": "有证据提示……",
+      "source": {
+        "part": "Part 4",
+        "anchor": "there’s plenty of evidence which suggests that",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "**There is evidence to suggest that** dancing may lower the risk of falls by helping people improve their balance.",
+          "zh": "有证据提示，跳舞可能通过帮助人们改善平衡能力，降低跌倒的风险。"
+        }
+      ]
+    },
+    {
+      "phrase": "…, all of which …",
+      "meaning": "……，这些都……",
+      "source": {
+        "part": "Part 4",
+        "anchor": "all of which encourages interaction",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Group projects involve discussion, cooperation and shared responsibilities, **all of which can help students develop communication skills**.",
+          "zh": "小组项目涉及讨论、合作和共同承担责任，这些都有助于学生培养沟通能力。"
+        }
+      ]
+    },
+    {
+      "phrase": "…, even those whose …",
+      "meaning": "……，甚至包括那些……的人。",
+      "source": {
+        "part": "Part 4",
+        "anchor": "even those whose standard of fitness is quite low",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "The course is open to everyone, **even those whose knowledge of the subject is limited**.",
+          "zh": "这门课程向所有人开放，即使对这个领域了解有限的人也可以参加。"
+        }
+      ]
+    },
+    {
+      "phrase": "be likely to do / be more likely to do",
+      "meaning": "很可能……／更可能……",
+      "source": {
+        "part": "Part 4",
+        "anchor": "is likely to keep on rising",
+        "relation": "adapted"
+      },
+      "examples": [
+        {
+          "en": "Demand for flexible working arrangements **is likely to increase**.",
+          "zh": "对灵活工作安排的需求很可能会增加。"
+        },
+        {
+          "en": "People **are more likely to maintain a habit** if they enjoy the activity.",
+          "zh": "如果人们喜欢一项活动，就更可能坚持这个习惯。"
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "label": "口语谈运动习惯",
+      "en": "**When it comes to exercise**, I prefer cycling. It **fits in with my lifestyle** because I can cycle to work. I started doing it **just for fun**, but it has **made a big difference to** the way I spend my weekends. Now I often go for a ride instead of staying at home.",
+      "zh": "谈到运动，我更喜欢骑行。它适合我的生活方式，因为我可以骑车上班。最初我只是觉得好玩，但它大大改变了我度过周末的方式。现在我经常出去骑车，而不是待在家里。"
+    },
+    {
+      "label": "写作说明社区活动的好处",
+      "en": "Community activities can **be especially beneficial for older adults**. By providing opportunities to meet regularly, they can **encourage interaction** and help **reduce a sense of isolation**.",
+      "zh": "社区活动对老年人尤其有益。通过提供定期见面的机会，这些活动可以促进交流，并帮助减轻孤独感。"
+    }
+  ],
+  "notes": {
+    "patterns": [
+      {
+        "label": "句式3",
+        "body": "由原文 What’s only been discovered recently is that … 拓展而来。可以替换 useful 为 interesting、surprising、impressive，用来突出你对某件事的评价。"
+      },
+      {
+        "label": "句式4",
+        "body": "来自原文“一个成真的梦，对应许多没有成真的梦”的对照。适合提醒读者关注容易被忽略的情况；may be 是否需要，由你想表达的确定程度决定。"
+      },
+      {
+        "label": "句式5",
+        "body": "例句根据原文的舞蹈研究描述改写。There is evidence to suggest that 用来引出有依据的判断；by helping … 则进一步解释作用方式。"
+      },
+      {
+        "label": "句式7",
+        "body": "来自原文 even those whose standard of fitness is quite low。注意 whose 后接名词，这里的 whose knowledge 表示“这些人的知识”。"
+      }
+    ],
+    "reading": [
+      {
+        "label": "on offer / on sale",
+        "body": "本文中是“供应的／有售的”。"
+      },
+      {
+        "label": "eventually",
+        "body": "最终；eventually we may … 中，“可能”来自 may。"
+      },
+      {
+        "label": "a week at a time",
+        "body": "每次以一周为单位。"
+      },
+      {
+        "label": "be in focus",
+        "body": "照片对焦清晰。"
+      },
+      {
+        "label": "come about / come into use / come true",
+        "body": "发生、实现／开始投入使用／成真。"
+      },
+      {
+        "label": "those dancing alone",
+        "body": "那些独自跳舞的人。"
+      },
+      {
+        "label": "hardly … before …",
+        "body": "本文强调午餐时间紧，学生可能才刚吃完，下午课就开始了。"
+      }
+    ],
+    "boundaries": [
+      {
+        "label": "be meant to",
+        "body": "原文中可以表示“据说能／按理应该”，带有预期意味。"
+      },
+      {
+        "label": "due to a lack of funding",
+        "body": "是对原文 through lack of money 的迁移改写。"
+      },
+      {
+        "label": "have/get sth done",
+        "body": "可以强调安排别人处理，也可以强调完成；get the photos packed up 可以是自己打包。"
+      },
+      {
+        "label": "correlation",
+        "body": "表示相关性，不能直接当成因果关系。"
+      },
+      {
+        "label": "all of which",
+        "body": "要让读者清楚知道它概括的是前面的哪些内容。"
+      }
+    ]
+  }
+}

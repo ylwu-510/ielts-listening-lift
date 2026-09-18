@@ -1,0 +1,4 @@
+interface:
+  display_name: "IELTS Listening Lift"
+  short_description: "从雅思听力稿提炼可迁移表达，生成紧凑易读的中英双语 Word 或 Markdown"
+  default_prompt: "使用 $ielts-listening-lift 将我提供的雅思听力稿整理为早读材料，优先生成 Word，沿用五部分结构和紧凑排版。"
